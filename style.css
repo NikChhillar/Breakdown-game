@@ -1,3 +1,10 @@
+#score{
+    font-size: 2rem;
+    font-family: cursive;
+    margin-left: 200px;
+    margin-bottom: 12px;
+}
+
 .grid{
     width: 570px;
     height: 300px;
@@ -18,4 +25,12 @@
     position: absolute;
     height: 20px;
     background: green;
+}
+
+.ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
 }
